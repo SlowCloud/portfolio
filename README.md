@@ -13,7 +13,7 @@
 
 # Skills
 
-**Language** :: **Java**, C/C++, Javascript, Python
+**Language** :: **Java**, C/C++, Javascript, Golang, Python
 
 **Backend** :: **Spring Boot**, FastAPI, Express js
 
@@ -118,3 +118,11 @@ MQTT 통신 중 예외 발생 시 통신이 끊기는 문제가 있음을 확인
 ### 삼성 청년 소프트웨어 아카데미 (SSAFY)
 
 _2024.01.08 ~ 2024.12.19_
+
+# 👟 기타 활동
+
+### 오픈소스 기여
+
+- https://github.com/charmbracelet/mods
+  - README 기여
+  - https://github.com/charmbracelet/mods/pull/481
