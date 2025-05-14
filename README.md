@@ -7,9 +7,9 @@
 - 🐈‍⬛ **github: [@SlowCloud](http://www.github.com/Slowcloud)**
 - 🔖 [solved.ac](http://solved.ac/): [@shjy9417](http://solved.ac/shjy9417) Diamond III (상위 0.5%)
 
-복잡한 문제를 해결하는 능력은 중요합니다. 하지만 복잡한 문제가 생기지 않도록 하는 것도 중요합니다. 할 수 있는 것보다는 쉬운 것이 더 좋습니다. 요구 사항 안에서 해결할 수 있는 가장 단순한 해결책이 좋은 방향이라고 생각합니다.
+복잡한 문제를 해결하는 능력은 중요합니다. 복잡한 문제가 생기지 않도록 하는 것은 더 중요합니다. 할 수 있는 것보다는 단순한 것이 더 낫습니다. 요구 사항 안에서 해결할 수 있는 가장 단순한 해결책이 좋은 방향이라고 생각합니다.
 
-서비스가 무너지지 않도록 든든한 받침이 되어주는 개발자, 서정운입니다. 안정적이고 유지보수하기 좋은 서비스를 구축하는 데 관심을 가지고 있습니다.
+든든한 뒷받침이 되어주는 개발자, 서정운입니다. 안정적이고 유지보수하기 좋은 서비스를 구축하는 데 관심을 가지고 있습니다.
 
 # Skills
 
@@ -123,6 +123,5 @@ _2024.01.08 ~ 2024.12.19_
 
 ### 오픈소스 기여
 
-- https://github.com/charmbracelet/mods
-  - README 기여
-  - https://github.com/charmbracelet/mods/pull/481
+[![](https://private-user-images.githubusercontent.com/25087/237975607-5442bf46-b908-47af-bf4e-60f7c38951c4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzQwMjgsIm5iZiI6MTc0NzIzMzcyOCwicGF0aCI6Ii8yNTA4Ny8yMzc5NzU2MDctNTQ0MmJmNDYtYjkwOC00N2FmLWJmNGUtNjBmN2MzODk1MWM0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE0VDE0NDIwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlZjllZGY3YWNhYTE0Y2Y3YmI0OTdjZTY3MWYwNzM1ODE4ZDNmM2NhZDk0ZmE4OWZhMWI3ZWVmOWEzN2NjN2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hSZfBTVNbu5JYBoVEtJslLeJYaOm32Fg0HteQ9Rbzh4)](https://github.com/charmbracelet/mods)
+- [README 기여](https://github.com/charmbracelet/mods/pull/481)
