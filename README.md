@@ -123,5 +123,6 @@ _2024.01.08 ~ 2024.12.19_
 
 ### 오픈소스 기여
 
-[![](https://private-user-images.githubusercontent.com/25087/237975607-5442bf46-b908-47af-bf4e-60f7c38951c4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDcyMzQwMjgsIm5iZiI6MTc0NzIzMzcyOCwicGF0aCI6Ii8yNTA4Ny8yMzc5NzU2MDctNTQ0MmJmNDYtYjkwOC00N2FmLWJmNGUtNjBmN2MzODk1MWM0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE0VDE0NDIwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNlZjllZGY3YWNhYTE0Y2Y3YmI0OTdjZTY3MWYwNzM1ODE4ZDNmM2NhZDk0ZmE4OWZhMWI3ZWVmOWEzN2NjN2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hSZfBTVNbu5JYBoVEtJslLeJYaOm32Fg0HteQ9Rbzh4)](https://github.com/charmbracelet/mods)
+[![](https://github.com/user-attachments/assets/aeb1727d-f978-45e0-b9ca-f4fd3f15f628)](https:github.com/charmbracelet/mods)
+
 - [README 기여](https://github.com/charmbracelet/mods/pull/481)
