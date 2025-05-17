@@ -123,6 +123,6 @@ _2024.01.08 ~ 2024.12.19_
 
 ### 오픈소스 기여
 
-[![](https://github.com/user-attachments/assets/aeb1727d-f978-45e0-b9ca-f4fd3f15f628)](https:github.com/charmbracelet/mods)
+[![](https://github.com/user-attachments/assets/aeb1727d-f978-45e0-b9ca-f4fd3f15f628)](https://github.com/charmbracelet/mods)
 
 - [README 기여](https://github.com/charmbracelet/mods/pull/481)
