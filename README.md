@@ -123,6 +123,16 @@ _2024.01.08 ~ 2024.12.19_
 
 ### 오픈소스 기여
 
-[![](https://github.com/user-attachments/assets/aeb1727d-f978-45e0-b9ca-f4fd3f15f628)](https://github.com/charmbracelet/mods)
+#### Mods
+
+[![](mods-logo.png)](https://github.com/charmbracelet/mods)
 
 - [README 기여](https://github.com/charmbracelet/mods/pull/481)
+  - Gemini Model 설정 및 사용 방법 기여
+
+#### Spring Framework
+
+[![](spring-2.svg)](https://github.com/spring-projects/spring-framework)
+
+- [Documentation 기여](https://github.com/spring-projects/spring-framework/issues/34991)
+  - `Asynchronous Request` 문서에 `CompletableFuture` 관련 내용 추가 요청
