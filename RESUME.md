@@ -82,14 +82,12 @@
 
 _2024.01.08 ~ 2024.12.19_
 
-# 👟 기타 활동
+# 🖊️ 오픈소스 기여
 
-### 오픈소스 기여
-
-#### Mods
+### Mods
 
 - [Add Google API Key instructions](https://github.com/charmbracelet/mods/pull/481)
 
-#### Spring Framework
+### Spring Framework
 
 - [Mention CompletableFuture in Spring MVC "Asynchronous Requests" section of reference manual](https://github.com/spring-projects/spring-framework/issues/34991)
