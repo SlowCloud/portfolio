@@ -125,14 +125,8 @@ _2024.01.08 ~ 2024.12.19_
 
 #### Mods
 
-[![](mods-logo.png)](https://github.com/charmbracelet/mods)
-
-- [README 기여](https://github.com/charmbracelet/mods/pull/481)
-  - Gemini Model 설정 및 사용 방법 기여
+- [Add Google API Key instructions](https://github.com/charmbracelet/mods/pull/481)
 
 #### Spring Framework
 
-[![](spring-2.svg)](https://github.com/spring-projects/spring-framework)
-
-- [Documentation 기여](https://github.com/spring-projects/spring-framework/issues/34991)
-  - `Asynchronous Request` 문서에 `CompletableFuture` 관련 내용 추가 요청
+- [Mention CompletableFuture in Spring MVC "Asynchronous Requests" section of reference manual](https://github.com/spring-projects/spring-framework/issues/34991)
