@@ -7,22 +7,15 @@
 - 🐈‍⬛ **github: [@SlowCloud](http://www.github.com/Slowcloud)**
 - 🔖 [solved.ac](http://solved.ac/): [@shjy9417](http://solved.ac/shjy9417) Diamond III (상위 0.5%)
 
-복잡한 문제를 해결하는 능력은 중요합니다. 복잡한 문제가 생기지 않도록 하는 것은 더 중요합니다. 할 수 있는 것보다는 단순한 것이 더 낫습니다. 요구 사항 안에서 해결할 수 있는 가장 단순한 해결책이 좋은 방향이라고 생각합니다.
-
 든든한 뒷받침이 되어주는 개발자, 서정운입니다. 안정적이고 유지보수하기 좋은 서비스를 구축하는 데 관심을 가지고 있습니다.
 
 # Skills
 
-**Language** :: **Java**, C/C++, Javascript, Golang, Python
-
-**Backend** :: **Spring Boot**, FastAPI, Express js
-
-**Database** :: MySQL, Redis, Mongo
-
-**Frontend** :: Bootstrap, React js, Next js, Vue js
-
-**Server** :: **Kubernetes, Docker**, Jenkins, Argo CD, Nginx
-
+**Language** :: **Java**, C/C++, Javascript, Golang  
+**Backend** :: **Spring Boot**  
+**Database** :: MySQL, Redis  
+**Frontend** :: Bootstrap, React js  
+**Server** :: **Kubernetes, Docker**, Jenkins, Argo CD  
 **Tools** :: **Git**, **Vim**, Jira, Linux
 
 # 📋 Projects
@@ -38,7 +31,7 @@
 
 [https://github.com/SlowCloud/Pillsoo](https://github.com/SlowCloud/Pillsoo)
 
-문제없이 작동할 수 있도록 쿠버네티스를 활용하여 배포를 진행하였습니다. 깃옵스 방식으로 CI/CD를 구성하였으며, 배포한 이미지에 문제가 생겼을 경우에도 빠른 롤백 작업이 가능하였습니다.
+트래픽이 증가하더라도 문제없이 작동할 수 있도록 쿠버네티스를 활용하여 배포를 진행하였습니다. 깃옵스 방식으로 CI/CD를 구성하였으며, 배포한 이미지에 문제가 생겼을 경우에도 빠른 롤백 작업이 가능하였습니다.
 
 이미지 빌드 시 kaniko를 활용하였으며, 역시 캐싱과 병렬 처리를 도입하여 배포 시간을 6분에서 2분으로 3배 향상시켰습니다.
 
