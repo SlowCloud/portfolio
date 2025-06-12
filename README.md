@@ -48,8 +48,7 @@
 
 ## 영양제 추천 서비스
 
-<sub>2024.09 ~ 2024.10
-[Github](https://github.com/SlowCloud/Pillsoo)
+<sub>2024.09 ~ 2024.10 [Github](https://github.com/SlowCloud/Pillsoo)
 
 사용자 정보에 맞추어 영양제를 추천하고, 검색할 수 있는 모바일 앱 프로젝트입니다. 데브옵스 개발을 주로 진행하였으며, 백엔드 개발에도 참여하였습니다.
 
@@ -63,8 +62,7 @@
 
 ## 보안 스티커 확인 기기
 
-<sub>2024.06 ~ 2024.07
-[Github](https://github.com/SlowCloud/BOSS)
+<sub>2024.06 ~ 2024.07 [Github](https://github.com/SlowCloud/BOSS)
 
 스마트폰 카메라 보안스티커 부착 여부를 AI를 활용하여 판별, 기록하는 IoT 프로젝트입니다. 데브옵스 개발을 주로 진행하였으며, 백엔드 개발에도 참여하였습니다.
 
@@ -81,8 +79,7 @@
 
 ## 인형을 통한 아이와의 대화 서비스
 
-<sub>2024.11 ~ 2024.11
-[Github](https://github.com/SlowCloud/Talkie)
+<sub>2024.11 ~ 2024.11 [Github](https://github.com/SlowCloud/Talkie)
 
 실시간 AI를 활용하여 아이가 인형과 대화할 수 있도록 해주는 IoT 프로젝트입니다. 백엔드 개발을 담당하였으며, 해당 프로젝트로 SSAFY 자율 프로젝트 우수상을 수상하였습니다.
 
@@ -97,10 +94,22 @@
 
 **Spring Boot, MQTT, Websocket**, Redis, MySQL
 
+## CLI 환경 기반 Gemini 채팅 앱
+
+<sub>2025.04 ~ 2025.04 [Github](https://github.com/SlowCloud/gemini-golang)
+
+CLI 환경에서 빠르게 Gemini AI에게 질의를 할 수 있는 채팅 프로그램입니다. 웹 브라우저를 통해 접속하는 오버헤드를 줄이고 빠르게 AI에게 질의하기 위해 개발하였습니다.
+
+- CLI 환경 기반 채팅 UI 구현
+  - TUI Framework를 활용하여 가벼운 터미널 환경에서 빠르게 질문할 수 있도록 구현
+
+### Stack
+
+Bubbletea, go-genai, ~~cobra~~
+
 ## 여행 계획 서비스
 
-<sub>2024.03 ~ 2024.05
-[Github](https://github.com/SlowCloud/SSAFY_TripProject) (README only)
+<sub>2024.03 ~ 2024.05 [Github](https://github.com/SlowCloud/SSAFY_TripProject) (README only)
 
 여행 경로를 계획하고, 공유하고, 리뷰할 수 있는 프로젝트입니다. 초기에 프론트엔드를 JSP로 구성하였으며, 이후 VueJS 기반 프론트엔드와 REST API로 분리하는 작업을 진행하였습니다. SSAFY 내부에서 처음으로 익힌 기술들을 전반적으로 활용해보는 기회가 되었습니다.
 
