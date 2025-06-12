@@ -1,6 +1,6 @@
 # 든든한 뒷받침이 되어주는 개발자
 
-## **Contact**
+**Contact**
 
 - 🙂 Name : 서정운
 - 📨 email: sju9417@gmail.com
@@ -10,13 +10,38 @@
 
 든든한 뒷받침이 되어주는 개발자, 서정운입니다. 안정적이고 유지보수하기 좋은 서비스를 구축하는 데 관심을 가지고 있습니다.
 
+# 📖 교육
+
+**삼성 청년 소프트웨어 아카데미 (SSAFY)**  
+<sub>2024.01.08 ~ 2024.12.19
+
+- 자바, 알고리즘, 스프링 등 전반적인 백엔드 지식 교육 이수
+- 3회의 팀 프로젝트 진행으로 협업 경험
+- 삼성SW역량테스트 B형 취득 <sub>2024.03.16
+- 1학기 성적우수상 <sub>2024.05.24
+- SSAFY 1학기 Best Member 선정 <sub>2024.11.
+- 자율 프로젝트 우수상 <sub>2024.11.29
+
+**부경대학교**  
+<sub>2022.03.02 ~ 2024.02.16
+
+- 컴퓨터공학과 편입 및 졸업
+- 3.45 / 4.5
+- [2023년 부경대학교 프로그래밍 대회 장려상](https://itc.pknu.ac.kr/html/06/01.php?mode=read&idx=39&search_select=title&keyword=%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D&pagenum=0)
+
+**경성대학교**  
+<sub>2018.03.02 ~ 2022.02.22
+
+- 컴퓨터공학과 중퇴
+- 3.67 / 4.5
+
 # Skills
 
 **Language** :: **Java**, C/C++, Javascript, Golang  
 **Backend** :: **Spring Framework / Boot**  
 **Database** :: MySQL, Redis  
-**Frontend** :: Bootstrap, React js  
-**Server** :: **Kubernetes, Docker**, Jenkins, Argo CD  
+**Frontend** :: React js, Bootstrap  
+**Server** :: **Kubernetes, Docker**, Jenkins  
 **Tools** :: **Git**, **Vim**, Jira, Linux
 
 # 📋 Projects
@@ -110,31 +135,6 @@
 - 삼성 SW 역량테스트 B형 취득 - 2024.03.16
 - 오픽 IM2 취득 - 2024.03.15
 - 리눅스마스터 2급 취득 - 2021.09.11
-
-# 📖 교육
-
-**삼성 청년 소프트웨어 아카데미 (SSAFY)**  
-<sub>2024.01.08 ~ 2024.12.19
-
-- 자바, 알고리즘, 스프링 등 전반적인 백엔드 지식 교육 이수
-- 3회의 팀 프로젝트 진행으로 협업 경험
-- 삼성SW역량테스트 B형 취득 <sub>2024.03.16
-- 1학기 성적우수상 <sub>2024.05.24
-- SSAFY 1학기 Best Member 선정 <sub>2024.11.
-- 자율 프로젝트 우수상 <sub>2024.11.29
-
-**부경대학교**  
-<sub>2022.03.02 ~ 2024.02.16
-
-- 컴퓨터공학과 편입 및 졸업
-- 3.45 / 4.5
-- [2023년 부경대학교 프로그래밍 대회 장려상](https://itc.pknu.ac.kr/html/06/01.php?mode=read&idx=39&search_select=title&keyword=%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D&pagenum=0)
-
-**경성대학교**  
-<sub>2018.03.02 ~ 2022.02.22
-
-- 컴퓨터공학과 중퇴
-- 3.67 / 4.5
 
 # 🖊️ 오픈소스 기여
 
