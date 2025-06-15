@@ -12,14 +12,14 @@
 
 # 📖 교육
 
-**삼성 청년 소프트웨어 아카데미 (SSAFY)**  
+**삼성 청년 소프트웨어 아카데미, SSAFY**  
 <sub>2024.01.08 ~ 2024.12.19
 
 - 자바, 알고리즘, 스프링 등 전반적인 백엔드 지식 교육 이수
 - 3회의 팀 프로젝트 진행으로 협업 경험
 - 삼성SW역량테스트 B형 취득 <sub>2024.03.16
 - 1학기 성적우수상 <sub>2024.05.24
-- SSAFY 1학기 Best Member 선정 <sub>2024.11.
+- SSAFY 1학기 Best Member 선정 <sub>2024.11 <!--KT 면접 보러 간 날 확인 후 날짜 추가할 것-->
 - 자율 프로젝트 우수상 <sub>2024.11.29
 
 **부경대학교**  
@@ -40,11 +40,26 @@
 **Language** :: **Java**, C/C++, Javascript, Golang  
 **Backend** :: **Spring Framework / Boot**  
 **Database** :: MySQL, Redis  
-**Frontend** :: React js, Bootstrap  
+**Frontend** :: React js  
 **Server** :: **Kubernetes, Docker**, Jenkins  
 **Tools** :: **Git**, **Vim**, Jira, Linux
 
 # 📋 Projects
+
+## CLI 환경 기반 Gemini 채팅 앱
+
+<sub>2025.04 ~ 2025.04 [Github](https://github.com/SlowCloud/gemini-golang)
+
+<sub>[회고 :: Golang 기반 툴 개발부터 오픈소스에 기여하기까지](https://slowcloud.tistory.com/13)
+
+CLI 환경에서 빠르게 Gemini AI에게 질의를 할 수 있는 채팅 프로그램입니다. 웹 브라우저를 통해 접속하는 오버헤드를 줄이고 빠르게 AI에게 질의하기 위해 개발하였습니다.
+
+- CLI 환경 기반 채팅 UI 구현
+  - TUI Framework를 활용하여 가벼운 터미널 환경에서 빠르게 질문할 수 있도록 구현
+
+### Stack
+
+golang, bubbletea, go-genai, ~~cobra~~
 
 ## 영양제 추천 서비스
 
@@ -94,19 +109,6 @@
 
 **Spring Boot, MQTT, Websocket**, Redis, MySQL
 
-## CLI 환경 기반 Gemini 채팅 앱
-
-<sub>2025.04 ~ 2025.04 [Github](https://github.com/SlowCloud/gemini-golang)
-
-CLI 환경에서 빠르게 Gemini AI에게 질의를 할 수 있는 채팅 프로그램입니다. 웹 브라우저를 통해 접속하는 오버헤드를 줄이고 빠르게 AI에게 질의하기 위해 개발하였습니다.
-
-- CLI 환경 기반 채팅 UI 구현
-  - TUI Framework를 활용하여 가벼운 터미널 환경에서 빠르게 질문할 수 있도록 구현
-
-### Stack
-
-Bubbletea, go-genai, ~~cobra~~
-
 ## 여행 계획 서비스
 
 <sub>2024.03 ~ 2024.05 [Github](https://github.com/SlowCloud/SSAFY_TripProject) (README only)
@@ -132,8 +134,10 @@ Bubbletea, go-genai, ~~cobra~~
 [Github](https://github.com/pukyong-capstone-2023/capstone)
 
 - 백엔드 인스턴스 정보 관리
+  - `json` 파일로 정리한 인스턴스 정보들을 인메모리로 관리하도록 구현
 - 프론트엔드 인스턴스 차트 리팩토링 및 디버깅
 - 스크림 주도
+  - 주마다 모임을 가져 개발 상황을 확인하고 앞으로의 개발 방향을 결정하는 등 팀을 주도적으로 이끎
 
 ### Stack
 
