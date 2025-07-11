@@ -52,35 +52,6 @@
 
 # 📋 Projects
 
-## CLI 환경 기반 Gemini 채팅 앱
-
-<sub>2025.04 ~ 2025.04 [Github](https://github.com/SlowCloud/gemini-golang)
-
-<sub>[회고 :: Golang 기반 툴 개발부터 오픈소스에 기여하기까지](https://slowcloud.tistory.com/13)
-
-CLI 환경에서 빠르게 Gemini AI에게 질의를 할 수 있는 채팅 프로그램입니다. 웹 브라우저를 통해 접속하는 오버헤드를 줄이고 빠르게 AI에게 질의하기 위해 개발하였습니다.
-
-- CLI 환경 기반 채팅 UI 구현
-  - TUI Framework를 활용하여 가벼운 터미널 환경에서 빠르게 질문할 수 있도록 구현
-
-### Stack
-
-golang, bubbletea, go-genai, ~~cobra~~
-
-## 영양제 추천 서비스
-
-<sub>2024.09 ~ 2024.10 [Github](https://github.com/SlowCloud/Pillsoo)
-
-사용자 정보에 맞추어 영양제를 추천하고, 검색할 수 있는 모바일 앱 프로젝트입니다. 데브옵스 개발을 주로 진행하였으며, 백엔드 개발에도 참여하였습니다.
-
-- 쿠버네티스 기반 깃옵스 구성
-  - 쿠버네티스 환경 배포로 고가용성 확보 및 무중단 배포 설정
-  - 이미지 빌드 시 kaniko 캐싱과 젠킨스 병렬 처리를 구성하여 배포 속도 3배 향상
-
-### Stack
-
-**Spring Boot, Kubernetes, ArgoCD, Jenkins**, Redis, Mongo, Elasticsearch, MySQL
-
 ## 보안 스티커 확인 기기
 
 <sub>2024.06 ~ 2024.07 [Github](https://github.com/SlowCloud/BOSS)
@@ -114,6 +85,35 @@ golang, bubbletea, go-genai, ~~cobra~~
 ### Stack
 
 **Spring Boot, MQTT, Websocket**, Redis, MySQL
+
+## 영양제 추천 서비스
+
+<sub>2024.09 ~ 2024.10 [Github](https://github.com/SlowCloud/Pillsoo)
+
+사용자 정보에 맞추어 영양제를 추천하고, 검색할 수 있는 모바일 앱 프로젝트입니다. 데브옵스 개발을 주로 진행하였으며, 백엔드 개발에도 참여하였습니다.
+
+- 쿠버네티스 기반 깃옵스 구성
+  - 쿠버네티스 환경 배포로 고가용성 확보 및 무중단 배포 설정
+  - 이미지 빌드 시 kaniko 캐싱과 젠킨스 병렬 처리를 구성하여 배포 속도 3배 향상
+
+### Stack
+
+**Spring Boot, Kubernetes, ArgoCD, Jenkins**, Redis, Mongo, Elasticsearch, MySQL
+
+## CLI 환경 기반 Gemini 채팅 앱
+
+<sub>2025.04 ~ 2025.04 [Github](https://github.com/SlowCloud/gemini-golang)
+
+<sub>[회고 :: Golang 기반 툴 개발부터 오픈소스에 기여하기까지](https://slowcloud.tistory.com/13)
+
+CLI 환경에서 빠르게 Gemini AI에게 질의를 할 수 있는 채팅 프로그램입니다. 웹 브라우저를 통해 접속하는 오버헤드를 줄이고 빠르게 AI에게 질의하기 위해 개발하였습니다.
+
+- CLI 환경 기반 채팅 UI 구현
+  - TUI Framework를 활용하여 가벼운 터미널 환경에서 빠르게 질문할 수 있도록 구현
+
+### Stack
+
+golang, bubbletea, go-genai, cobra
 
 ## 여행 계획 서비스
 
