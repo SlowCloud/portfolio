@@ -47,9 +47,8 @@
 **Backend** :: **Spring Framework / Boot**  
 **Database** :: MySQL, Redis  
 **Frontend** :: React js  
-**Server** :: **Kubernetes, Docker**, Jenkins, GCP  
-**Tools** :: **Git**, **Vim**, Jira, Linux  
-**DevOps** :: Ansible, Terraform, Vagrant, AWS
+**Server** :: **Kubernetes, Docker**, Jenkins, GCP, Terraform  
+**Tools** :: **Git**, **Vim**, Jira, Linux
 
 # 📋 Projects
 
