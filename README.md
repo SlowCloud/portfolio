@@ -47,8 +47,9 @@
 **Backend** :: **Spring Framework / Boot**  
 **Database** :: MySQL, Redis  
 **Frontend** :: React js  
-**Server** :: **Kubernetes, Docker**, Jenkins  
-**Tools** :: **Git**, **Vim**, Jira, Linux
+**Server** :: **Kubernetes, Docker**, Jenkins, GCP  
+**Tools** :: **Git**, **Vim**, Jira, Linux  
+**DevOps** :: Ansible, Terraform, Vagrant, AWS
 
 # 📋 Projects
 
@@ -154,6 +155,12 @@ golang, bubbletea, go-genai, cobra
 ### Stack
 
 **Spring Boot,** React js
+
+## ETC.
+
+- CopyPaste
+  - Pastebin 카피 서비스
+  - Spring Boot, MySQL, GCP
 
 # 🖊️ 오픈소스 기여
 
