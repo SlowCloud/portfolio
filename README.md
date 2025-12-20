@@ -55,6 +55,14 @@
 **Server** :: **Kubernetes, Docker**, Jenkins, GCP, Terraform  
 **Tools** :: **Git**, **Vim**, Jira, Linux
 
+
+# 🖊️ 오픈소스 기여
+
+- Mods
+  - [Add Google API Key instructions](https://github.com/charmbracelet/mods/pull/481)
+- Spring Framework
+  - [Mention CompletableFuture in Spring MVC "Asynchronous Requests" section of reference manual](https://github.com/spring-projects/spring-framework/issues/34991)
+
 # 📋 Projects
 
 ## 보안 스티커 확인 기기
@@ -166,12 +174,3 @@ golang, bubbletea, go-genai, cobra
   - Pastebin 카피 서비스
   - Spring Boot, MySQL, GCP
 
-# 🖊️ 오픈소스 기여
-
-### Mods
-
-- [Add Google API Key instructions](https://github.com/charmbracelet/mods/pull/481)
-
-### Spring Framework
-
-- [Mention CompletableFuture in Spring MVC "Asynchronous Requests" section of reference manual](https://github.com/spring-projects/spring-framework/issues/34991)
