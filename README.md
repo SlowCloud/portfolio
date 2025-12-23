@@ -65,6 +65,44 @@
 
 # 📋 Projects
 
+## 클라우드 컴퓨팅 비용 비교 서비스
+
+<sub>2023.09 ~ 2023.12
+[Github](https://github.com/pukyong-capstone-2023/capstone)
+
+대학교 캡스톤 프로젝트로 진행하였던 팀 프로젝트입니다.
+협업의 중요성을 깨닫고 팀을 이끌었던 프로젝트이며, 백엔드에 관심을 가지는 계기가 되었습니다.
+
+- 백엔드 인스턴스 정보 관리
+  - `json` 파일로 정리한 인스턴스 정보들을 인메모리로 관리하도록 구현
+- 프론트엔드 인스턴스 차트 리팩토링 및 디버깅
+- 스크림 주도
+  - 주마다 모임을 가져 개발 상황을 확인하고 앞으로의 개발 방향을 결정하는 등 팀을 주도적으로 이끎
+
+### Stack
+
+**Spring Boot,** React js
+
+## 여행 계획 서비스
+
+<sub>2024.03 ~ 2024.05 [Github](https://github.com/SlowCloud/SSAFY_TripProject) (README only)
+
+여행 경로를 계획하고, 공유하고, 리뷰할 수 있는 프로젝트입니다. 초기에 프론트엔드를 JSP로 구성하였으며, 이후 VueJS 기반 프론트엔드와 REST API로 분리하는 작업을 진행하였습니다.
+SSAFY 내부에서 처음으로 익힌 기술들을 전반적으로 활용해보는 기회가 되었습니다.
+
+- 여행 경로 계획 기능 구현
+  - 공공데이터포털로부터 관광지 데이터 등록
+  - Kakao Map API 활용하여 여행 경로 계획 및 조회 기능 구현
+- 여행 경로에 대한 리뷰 작성 및 관리 기능 구현
+- 메일 기반 비밀번호 조회 기능 구현
+- 네이버 블로그 검색 기능 구현
+- OpenAPI 문서화 작업
+  - Swagger를 활용하여 온라인 문서화
+
+### Stack
+
+**Spring Boot, JSP, MyBatis, MySQL**
+
 ## 보안 스티커 확인 기기
 
 <sub>2024.06 ~ 2024.07 [Github](https://github.com/SlowCloud/BOSS)
@@ -88,6 +126,28 @@
 
 **Spring Boot, JWT, Docker, Jenkins, MySQL**
 
+## 영양제 추천 서비스
+
+<sub>2024.09 ~ 2024.10 [Github](https://github.com/SlowCloud/Pillsoo)
+
+사용자 정보에 맞추어 영양제를 추천하고, 검색할 수 있는 모바일 앱 프로젝트입니다. 데브옵스 개발을 주로 진행하였으며, 백엔드 개발에도 참여하였습니다.
+
+- 프로젝트 기획
+  - 추천 시스템 적용 방식 및 화면 구성 설계에 참여
+- 모바일 앱 개발 참여
+  - 버튼 디자인 변경 및 디버깅 작업에 일부 참여
+- 백엔드 구성
+  - REST API 구현
+  - 백엔드 서버 간 통신 확인 및 디버깅 작업
+- 쿠버네티스 기반 깃옵스 구성
+  - 쿠버네티스 환경 배포로 고가용성 확보 및 무중단 배포 설정
+  - 이미지 빌드 시 kaniko 캐싱과 젠킨스 병렬 처리를 구성하여 배포 속도 3배 향상
+    - 2025년 6월부터 kaniko 지원이 중단되었음.
+
+### Stack
+
+**Spring Boot, Kubernetes, ArgoCD, Jenkins**, Redis, Mongo, Elasticsearch, MySQL
+
 ## 인형을 통한 아이와의 대화 서비스
 
 <sub>2024.11 ~ 2024.11 [Github](https://github.com/SlowCloud/Talkie)
@@ -106,29 +166,14 @@
 
 **Spring Boot, MQTT, Websocket**, Redis, MySQL
 
-## 영양제 추천 서비스
-
-<sub>2024.09 ~ 2024.10 [Github](https://github.com/SlowCloud/Pillsoo)
-
-사용자 정보에 맞추어 영양제를 추천하고, 검색할 수 있는 모바일 앱 프로젝트입니다. 데브옵스 개발을 주로 진행하였으며, 백엔드 개발에도 참여하였습니다.
-
-- 백엔드 구성
-  - REST API 구현
-- 쿠버네티스 기반 깃옵스 구성
-  - 쿠버네티스 환경 배포로 고가용성 확보 및 무중단 배포 설정
-  - 이미지 빌드 시 kaniko 캐싱과 젠킨스 병렬 처리를 구성하여 배포 속도 3배 향상
-
-### Stack
-
-**Spring Boot, Kubernetes, ArgoCD, Jenkins**, Redis, Mongo, Elasticsearch, MySQL
-
 ## CLI 환경 기반 Gemini 채팅 앱
 
 <sub>2025.04 ~ 2025.04 [Github](https://github.com/SlowCloud/gemini-golang)
 
 <sub>[회고 :: Golang 기반 툴 개발부터 오픈소스에 기여하기까지](https://slowcloud.tistory.com/13)
 
-CLI 환경에서 빠르게 Gemini AI에게 질의를 할 수 있는 채팅 프로그램입니다. 웹 브라우저를 통해 접속하는 오버헤드를 줄이고 빠르게 AI에게 질의하기 위해 개발하였습니다.
+CLI 환경에서 빠르게 Gemini AI에게 질의를 할 수 있는 채팅 프로그램입니다.
+웹 브라우저를 통해 접속하는 오버헤드를 줄이고 빠르게 AI에게 질의하기 위해 개발하였습니다.
 
 - CLI 환경 기반 채팅 UI 구현
   - TUI Framework를 활용하여 가벼운 터미널 환경에서 빠르게 질문할 수 있도록 구현
@@ -137,43 +182,13 @@ CLI 환경에서 빠르게 Gemini AI에게 질의를 할 수 있는 채팅 프�
 
 golang, bubbletea, go-genai, cobra
 
-## 여행 계획 서비스
+## 스니펫 관리 프로그램
 
-<sub>2024.03 ~ 2024.05 [Github](https://github.com/SlowCloud/SSAFY_TripProject) (README only)
+<sub>2025.12 ~ [Github](https://github.com/SlowCloud/SnippetManager)
 
-여행 경로를 계획하고, 공유하고, 리뷰할 수 있는 프로젝트입니다. 초기에 프론트엔드를 JSP로 구성하였으며, 이후 VueJS 기반 프론트엔드와 REST API로 분리하는 작업을 진행하였습니다. SSAFY 내부에서 처음으로 익힌 기술들을 전반적으로 활용해보는 기회가 되었습니다.
-
-- 여행 경로 계획 기능 구현
-  - 공공데이터포털로부터 관광지 데이터 등록
-  - Kakao Map API 활용하여 여행 경로 계획 및 조회 기능 구현
-- 여행 경로에 대한 리뷰 작성 및 관리 기능 구현
-- 메일 기반 비밀번호 조회 기능 구현
-- 네이버 블로그 검색 기능 구현
-- OpenAPI 문서화 작업
-  - Swagger를 활용하여 온라인 문서화
+코드 스니펫을 저장하고 관리하기 위한 프로그램입니다.
+WPF를 활용하여 개발을 진행하고 있습니다.
 
 ### Stack
 
-**Spring Boot, JSP, MyBatis, MySQL**
-
-## 클라우드 컴퓨팅 비용 비교 서비스
-
-<sub>2023.09 ~ 2023.12
-[Github](https://github.com/pukyong-capstone-2023/capstone)
-
-- 백엔드 인스턴스 정보 관리
-  - `json` 파일로 정리한 인스턴스 정보들을 인메모리로 관리하도록 구현
-- 프론트엔드 인스턴스 차트 리팩토링 및 디버깅
-- 스크림 주도
-  - 주마다 모임을 가져 개발 상황을 확인하고 앞으로의 개발 방향을 결정하는 등 팀을 주도적으로 이끎
-
-### Stack
-
-**Spring Boot,** React js
-
-## ETC.
-
-- CopyPaste
-  - Pastebin 카피 서비스
-  - Spring Boot, MySQL, GCP
-
+C#, WPF, Mvvm Community Toolkit
