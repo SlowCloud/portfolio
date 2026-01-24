@@ -48,13 +48,10 @@
 
 # Skills
 
-**Language** :: **Java**, C/C++, Javascript, Golang  
+**Language** :: **Java**, C++, Golang  
 **Backend** :: **Spring Framework / Boot**  
-**Database** :: MySQL, Redis  
-**Frontend** :: React js  
-**Server** :: **Kubernetes, Docker**, Jenkins, GCP, Terraform  
+**Server** :: **Kubernetes, Docker**, Jenkins  
 **Tools** :: **Git**, **Vim**, Jira, Linux
-
 
 # 🖊️ 오픈소스 기여
 
@@ -81,7 +78,8 @@
 
 ### Stack
 
-**Spring Boot,** React js
+- **Spring Boot**
+- React js
 
 ## 여행 계획 서비스
 
@@ -101,7 +99,10 @@ SSAFY 내부에서 처음으로 익힌 기술들을 전반적으로 활용해보
 
 ### Stack
 
-**Spring Boot, JSP, MyBatis, MySQL**
+- Spring Boot
+- JSP
+- MyBatis
+- MySQL
 
 ## 보안 스티커 확인 기기
 
@@ -126,7 +127,10 @@ SSAFY 내부에서 처음으로 익힌 기술들을 전반적으로 활용해보
 
 ### Stack
 
-**Spring Boot, JWT, Docker, Jenkins, MySQL**
+- Spring Boot
+- MySQL
+- Docker
+- Jenkins
 
 ## 영양제 추천 서비스
 
@@ -151,7 +155,14 @@ SSAFY 내부에서 처음으로 익힌 기술들을 전반적으로 활용해보
 
 ### Stack
 
-**Spring Boot, Kubernetes, ArgoCD, Jenkins**, Redis, Mongo, Elasticsearch, MySQL
+- Spring Boot
+- MySQL
+- Redis
+- Mongo
+- Elasticsearch
+- Kubernetes
+- ArgoCD
+- Jenkins
 
 ## 인형을 통한 아이와의 대화 서비스
 
@@ -172,7 +183,9 @@ MQTT, 웹소켓 등을 통해 실시간 통신을 구성하고 활용해보는 �
 
 ### Stack
 
-**Spring Boot, MQTT, Websocket**, Redis, MySQL
+- Spring Boot
+- Redis
+- MySQL
 
 ## CLI 환경 기반 Gemini 채팅 앱
 
@@ -190,7 +203,10 @@ Golang과 같은 새로운 기술을 익히고 활용해본 경험이었으며, 
 
 ### Stack
 
-golang, bubbletea, go-genai, cobra
+- golang
+- cobra
+- bubbletea
+- go-genai
 
 ## 스니펫 관리 프로그램
 
@@ -201,4 +217,5 @@ WPF를 활용하여 개발을 진행하고 있습니다.
 
 ### Stack
 
-C#, WPF, Mvvm Community Toolkit
+- C#
+- WPF
