@@ -6,7 +6,7 @@
 - 🪴 Blog: [slowcloud.tistory.com](http://slowcloud.tistory.com)
 - 🔖 [solved.ac](http://solved.ac/): [@shjy9417](http://solved.ac/shjy9417)
 
-풀칠하는 개발자, 서정운입니다.  
+든든한 뒷받침이 되어주는 개발자, 서정운입니다.  
 안정적이고 유지보수하기 좋은 서비스를 구축하는 데 관심을 가지고 있습니다.
 
 # 📖 교육
