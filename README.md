@@ -47,10 +47,11 @@
 
 # Skills
 
-**Language** :: **Java**, C++, Golang  
-**Backend** :: **Spring Framework / Boot**  
-**Server** :: **Kubernetes, Docker**, Jenkins  
-**Tools** :: **Git**, **Vim**, Jira, Linux
+Language :: **Java**, C++, Golang, C  
+Backend :: **Spring Framework / Boot**  
+Server :: **Kubernetes, Docker**, Jenkins  
+Tools :: **Git**, **Vim**, Jira, Linux  
+
 
 # 🖊️ 오픈소스 기여
 
@@ -145,22 +146,20 @@
 
 <sub>2024.09 ~ 2024.10 [Github](https://github.com/SlowCloud/Pillsoo)
 
-사용자 정보에 맞추어 영양제를 추천하고, 검색할 수 있는 모바일 앱 프로젝트입니다. 데브옵스 개발을 주로 진행하였으며, 백엔드 개발에도 참여하였습니다.
+사용자 정보에 맞추어 영양제를 추천하고, 검색할 수 있는 모바일 앱 프로젝트입니다. 데브옵스 / 백엔드 개발을 진행하였습니다.
 
 쿠버네티스를 활용하여 고가용성을 확보하고 무중단 배포를 구현해보면서 더 나은 데브옵스를 구성해볼 수 있었습니다.
 쿠버네티스와 같은 규모가 큰 프로그램을, 짧은 기회에 필요한 부분부터 빠르게 익혀 활용해 본 경험이었습니다.
 
 - 프로젝트 기획
   - 추천 시스템 적용 방식 및 화면 구성 설계에 참여
-- 모바일 앱 개발 참여
-  - 버튼 디자인 변경 및 디버깅 작업에 일부 참여
 - 백엔드 구성
-  - REST API 구현
-  - 백엔드 서버 간 통신 확인 및 디버깅 작업
+  - 스프링부트 기반 REST API 구현
+  - FastAPI와 스프링부트 서버 간 통신 구현 및 디버깅 작업
 - 쿠버네티스 기반 깃옵스 구성
   - 쿠버네티스 환경 배포로 고가용성 확보 및 무중단 배포 설정
   - 이미지 빌드 시 kaniko 캐싱과 젠킨스 병렬 처리를 구성하여 배포 속도 3배 향상
-    - 2025년 6월부터 kaniko 지원이 중단되었음.
+    - 2025년 6월부터 kaniko 유지보수가 중단됐습니다. buildah로 이를 대체할 수 있습니다.
 
 ### Stack
 
@@ -211,10 +210,13 @@ Golang과 같은 새로운 기술을 익히고 활용해본 경험이었으며, 
   - Cobra 프레임워크 활용하여 커맨드 기능 구현
 - CLI 환경 기반 채팅 UI 구현
   - TUI Framework를 활용하여 가벼운 터미널 환경에서 빠르게 질문할 수 있도록 구현
+ 
+2026년 2월 기준 파일 2개 선에서 관리할 수 있도록 간결하게 재구현했습니다.
+
+- charmbracelet/huh를 활용한 인터페이스 구현
+- 비동기로 채팅 토큰을 받고 화면에 출력하도록 구현
 
 ### Stack
 
 - golang
-- cobra
-- bubbletea
 - go-genai
