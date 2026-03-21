@@ -3,7 +3,7 @@
 - 🙂 Name : 서정운
 - 📨 email: sju9417@gmail.com
 - 🐈‍⬛ github: [@SlowCloud](http://www.github.com/Slowcloud)
-- 🪴 Blog: [slowcloud.tistory.com](http://slowcloud.tistory.com)
+- 🪴 Blog: [slowcloud.xyz](http://slowcloud.xyz)
 - 🔖 [solved.ac](http://solved.ac/): [@shjy9417](http://solved.ac/shjy9417)
 
 든든한 뒷받침이 되어주는 개발자, 서정운입니다.  
